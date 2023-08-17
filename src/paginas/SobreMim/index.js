@@ -21,7 +21,7 @@ export default function SobreMim() {
             />
 
             <p className={styles.paragrafo}>
-                Oi, tudo bem? Eu sou Desenvolvedor Junior de Front-end na Alura e estou feliz de te ver por aqui.
+                Oi, tudo bem? Eu sou Desenvolvedor Junior em formação no Front-end na Alura e estou feliz de te ver por aqui.
             </p>
             <p className={styles.paragrafo}>
                 Minha história com programação começou no Instituto Federal do Estado de São Paulo (IFSP), quando fiz o ensino médio integrado ao curso de Informática. Eu aprendi lógica de programação e o básico da linguagens Java em 2015, mas sem aprofundar muito em cada uma delas. Eu gostava muito de estudar programação, mas na época não fazia ideia de que trabalhar com isso hoje.
@@ -33,7 +33,7 @@ export default function SobreMim() {
                 Agora, tenho uma nova experiência de dev mais próxima da realidade, com prazos de implementação para o entrega de desafios como site, e aprendendo muito enquanto codifico.
             </p>
             <p className={styles.paragrafo}>
-                Desde então, tem sido aprendizados atrás de aprendizados. A Alura + Oracle são minhas escolas de programação. Estou muito feliz de ter a oportunidade de trazer esses conteúdos ricos e encantadores para você. Espero que aprenda bastante!
+                Desde então, tem sido aprendizados atrás de aprendizados. A Alura + Oracle são minhas escolas de programação. Estou muito feliz de ter a oportunidade de trazer esses conteúdos ricos e encantadores para você. Espero que aprendemos bastante!
             </p>
         </PostModelo>
     )

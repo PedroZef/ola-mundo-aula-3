@@ -11,7 +11,7 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                    Boas vindas ao meu espaço pessoal! Eu sou Antônio Evaldo, instrutor de Front-end da Alura. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :)
+                    Boas vindas ao meu espaço pessoal! Sou o Pedro Zeferino da Silva, Desenvolvedor Junior em formação no Front-end da Alura. Aqui compartilho vários conhecimentos, espero que aprendemos algo novo :)
                 </p>
             </div>
 
@@ -25,7 +25,7 @@ export default function Banner() {
                 <img
                     className={styles.minhaFoto}
                     src={minhaFoto}
-                    alt="Foto do Antônio Evaldo sorrindo"
+                    alt="Foto do Pedro Zeferino sorrindo"
                 />
             </div>
         </div>
