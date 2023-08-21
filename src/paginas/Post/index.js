@@ -2,7 +2,7 @@ import './Post.css';
 import styles from './Post.module.css';
 
 import { Route, Routes, useParams } from "react-router-dom"
-import posts from "json/posts.json";
+import posts from "../../json/posts.json";
 import PostModelo from "componentes/PostModelo";
 import ReactMarkdown from "react-markdown";
 import NaoEncontrada from 'paginas/NaoEncontrada';
